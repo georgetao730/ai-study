@@ -1,9 +1,6 @@
-server:
-  port: 18080
-
 spring:
   application:
-    name: helloworld
+    name: rag-knowledge-demo
 
   ai:
     dashscope:
